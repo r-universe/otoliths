@@ -1,10 +1,10 @@
 [
   {
-    "package": "rfishdraw",
+    "package": "SP2000",
     "oncran": true
   },
   {
-    "package": "SP2000",
+    "package": "rfishdraw",
     "oncran": true
   }
 ]
