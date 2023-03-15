@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "SP2000"]
-	path = SP2000
-	url = https://github.com/otoliths/sp2000
-	shallow = true
-	registered = true
 [submodule "rfishdraw"]
 	path = rfishdraw
 	url = https://github.com/otoliths/rfishdraw
+	shallow = true
+	registered = true
+[submodule "SP2000"]
+	path = SP2000
+	url = https://github.com/otoliths/sp2000
 	shallow = true
 	registered = true
