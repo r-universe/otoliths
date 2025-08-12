@@ -5,6 +5,3 @@
 [submodule "SP2000"]
 	path = SP2000
 	url = https://github.com/otoliths/sp2000
-[submodule "rfishdraw"]
-	path = rfishdraw
-	url = https://github.com/otoliths/rfishdraw
